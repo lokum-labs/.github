@@ -1,6 +1,6 @@
 # Lokum labs
 
-Lokum labs is a focused AI and automation partner helping SMEs and enterprises bring innovative, efficient solutions to life. We deliver intelligent systems that transform workflows, boost productivity, and support sustainable growth.
+Lokum labs is a focused AI, automation, and software engineering partner to bring innovative, efficient solutions to life. We deliver intelligent systems that transform workflows, boost productivity, and support sustainable growth.
 
 ---
 
